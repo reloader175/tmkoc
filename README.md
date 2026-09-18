@@ -1,2 +1,4 @@
 # tmkoc
-kuch nahi
+for learning and testing
+<br>
+i have file of python 
